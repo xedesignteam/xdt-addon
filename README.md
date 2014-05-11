@@ -1,4 +1,4 @@
-xdt-addon
+XDT-Addon
 =========
 
 XE Design Team Addon
