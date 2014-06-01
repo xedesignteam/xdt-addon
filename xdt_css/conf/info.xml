@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon version="0.2">
+    <title xml:lang="ko">XDT CSS FIX</title>
+    <description xml:lang="ko">모바일에 최적화된 화면으로 보기가 레이아웃을 가리는 것을 방지합니다.</description>
+    <version>1.0</version>
+    <date>2013-01-09</date>
+    <author email_address="support@xdt.kr" link="http://xdt.kr" >
+        <name xml:lang="ko">범진혁</name>
+    </author>
+</addon>
