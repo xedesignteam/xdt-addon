@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon version="0.2">
+    <title xml:lang="ko">XDT Scrollbar Addon</title>
+    <description xml:lang="ko">간단하게 스크롤바를 꾸며주는 애드온 입니다.</description>
+    <version>1.0</version>
+    <date>2013-11-25</date>
+    <author email_address="support@xdt.kr" link="http://xdt.kr" >
+        <name xml:lang="ko">범진혁</name>
+    </author>
+    <extra_vars>
+        <var name="webkitscrollbar" type="text" >
+            <title xml:lang="ko">-webkit-scrollbar{}</title>
+            <description xml:lang="ko">-webkit-scrollbar{}에 입력될 값을 적어주세요. 추천값: width:5px;</description>
+         </var>
+		 <var name="webkitscrollbartrackpiece" type="text" >
+            <title xml:lang="ko">-webkit-scrollbar-track-piece{}</title>
+            <description xml:lang="ko">-webkit-scrollbar-track-piece{}에 입력될 값을 적어주세요. 추천값: background-color:#f1f1f1;</description>
+         </var>
+		 <var name="webkitscrollbarthumb" type="text" >
+            <title xml:lang="ko">-webkit-scrollbar-thumb{}</title>
+            <description xml:lang="ko">-webkit-scrollbar-thumb{}에 입력될 값을 적어주세요. 추천값: background-color:rgba(0,0,0,.3); border-radius:7px; -webkit-transition:.2s background-color ease;</description>
+         </var>
+    </extra_vars>
+</addon>
