@@ -42,7 +42,7 @@
         <title xml:lang="es">Property(Tracking) ID</title>
         <title xml:lang="ru">Property(Tracking) ID</title>
         <title xml:lang="tr">Property(Tracking) ID</title>
-        <description xml:lang="ko">Google Analytics의 추적 ID 값을 입력해주세요. ( https://www.google.com/analytics/ ).</description>
+        <description xml:lang="ko">Google Analytics의 추적 ID 값을 입력해주세요. UA로 시작합니다.</description>
         <description xml:lang="en">Please input property(tracking) ID from Google Analytics code.</description>
         <description xml:lang="jp">Google Analyticsコードの「property(tracking) ID」の値を入力してください。</description>
         <description xml:lang="zh-CN">请输入Google Analytics代码的property(tracking) ID值。</description>
