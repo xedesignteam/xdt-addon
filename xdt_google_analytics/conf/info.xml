@@ -52,25 +52,5 @@
         <description xml:lang="ru">Please input property(tracking) ID from Google Analytics code.</description>
         <description xml:lang="tr">Please input property(tracking) ID from Google Analytics code.</description>
     </var>
-	<var name="domain" type="text" >
-        <title xml:lang="ko">도메인</title>
-		<title xml:lang="en">domain</title>
-		<title xml:lang="jp">ドメイン</title>
-        <title xml:lang="zh-CN">domain</title>
-		<title xml:lang="zh-TW">domain</title>
-        <title xml:lang="vi">domain</title>
-        <title xml:lang="es">domain</title>
-        <title xml:lang="ru">domain</title>
-        <title xml:lang="tr">domain</title>
-        <description xml:lang="ko">Google Analytics 코드의 도메인 값을 입력해주세요. (WWW을 제외한 도메인)</description>
-        <description xml:lang="en">Please input domain except WWW. (ex. domain.com)</description>
-        <description xml:lang="jp">Google Analyticsのドメインを入力してください。（www以外のドメイン, 例題 domain.com）</description>
-        <description xml:lang="zh-CN">Please input domain except WWW. (ex. domain.com)</description>
-        <description xml:lang="zh-TW">Please input domain except WWW. (ex. domain.com)</description>
-        <description xml:lang="vi">Please input domain except WWW. (ex. domain.com)</description>
-        <description xml:lang="es">Please input domain except WWW. (ex. domain.com)</description>
-        <description xml:lang="ru">Please input domain except WWW. (ex. domain.com)</description>
-        <description xml:lang="tr">Please input domain except WWW. (ex. domain.com)</description>
-    </var>
     </extra_vars>
 </addon>
